@@ -437,7 +437,7 @@ textarea {
     align-self: center;
     width: 7.5vh !important;
     padding-bottom: 1rem;
-    padding-top: 1rem;
+    padding-top: 0;
   }
 
   header.masthead h1 {
@@ -486,9 +486,9 @@ textarea {
   td img {
     margin-top: 0 !important;
     width: 40vh !important;
-    max-width: 80vw;
+    max-width: 70vw;
     padding-bottom: 1rem;
-    padding-top: 2vh;
+    padding-top: 0;
   }
 
   #logo {
